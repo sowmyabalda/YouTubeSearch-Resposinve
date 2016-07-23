@@ -1,0 +1,55 @@
+.page {
+    
+    padding-top: 10%;
+    width: 100%;
+    
+}
+#Home{
+    background-image: url("image.jpg");
+}
+/*body {
+    overflow-x: hidden;
+
+}*/
+/*.youtube
+{
+	padding-top: 5%
+}*/
+#Youtube{
+	
+	display:inherit;
+	background-color: #D6BB98;
+}
+
+#grid1 img,#grid2 img,#grid3 img{
+	margin-left: 30%;
+}
+ .clear-padding-both{
+ 	padding-left:0px ;
+ 	padding-right:0px ;
+ }
+  #About {
+  	padding-top:250px;height:1000px;
+  }
+  #Contact {
+    height: 1000px;
+    padding-top: 700px;
+  }
+
+  #Contact
+  {
+  	background-image: url(http://www.incarnationsf.org/images/contact-us.png);
+  	background-repeat: no-repeat;
+  	background-size:contain;
+	background-position:center;
+  }
+
+ #data{
+     width: 54%;
+    display: block;
+    max-height: 600px;
+    overflow-y: scroll;
+    margin-top:5px;
+
+}
+  
